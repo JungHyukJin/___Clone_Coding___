@@ -1,11 +1,11 @@
-#loginLogo{
+#loginLogo {
   width: 140px;
   display: block;
   margin: auto;
   margin-top: 40px;
   margin-bottom: 40px;
 }
-.layout{
+.layout {
   background-color: white;
   border: 1px solid grey;
   height: auto;
@@ -14,36 +14,36 @@
   margin: auto;
   text-align: center;
   padding-top: 25px;
-  border: 1px solid #DFE1E6;
+  padding-bottom: 20px;
+  border: 1px solid #dfe1e6;
   font-size: 14px;
   border-radius: 3px;
 }
-.footer{
+.footer {
   border: 1px solid grey;
-  width:100%
+  width: 100%;
 }
-#Email_Id{
+#Email_Id {
   width: 300px;
   height: 30px;
   background-color: #fafbfc;
   padding: 7px;
   font: inherit;
   margin-bottom: 16.8px;
-  border: 2px solid #DFE1E6;
+  border: 2px solid #dfe1e6;
   border-radius: 3px;
-
 }
-#Email_Password{
+#Email_Password {
   width: 300px;
   height: 30px;
   background-color: #fafbfc;
   padding: 7px;
   font: inherit;
   margin-bottom: 16.8px;
-  border: 2px solid #DFE1E6;
+  border: 2px solid #dfe1e6;
   border-radius: 3px;
 }
-#signUp_button{
+#signUp_button {
   background-color: #0052cc;
   width: 320px;
   height: 35px;
@@ -51,73 +51,76 @@
   border-radius: 3px;
   font-weight: bold;
   color: white;
-  text-decoration: none
+  text-decoration: none;
 }
-#googleLogin_btn{
+#googleLogin_btn {
   background-color: white;
   width: 320px;
   height: 44px;
   font-weight: bold;
-  color:#505f79;
-  border: 1px solid #DFE1E6;
+  color: #505f79;
+  border: 1px solid #dfe1e6;
   border-radius: 3px;
 }
-#microsoftLogin_btn{
+#microsoftLogin_btn {
   background-color: white;
   width: 320px;
   height: 44px;
   font-weight: bold;
-  color:#505f79;
-  border: 1px solid #DFE1E6;
+  color: #505f79;
+  border: 1px solid #dfe1e6;
   border-radius: 3px;
 }
-#signUp_button:hover{
+#signUp_button:hover {
   cursor: pointer;
-  background-color: #0065FF;
+  background-color: #0065ff;
   color: white;
 }
-#googleLogin_btn:hover{
+#googleLogin_btn:hover {
   cursor: pointer;
   background-color: #f9fafc;
 }
-#microsoftLogin_btn:hover{
+#microsoftLogin_btn:hover {
   cursor: pointer;
   background-color: #f9fafc;
 }
-.help_login{
+.help_login {
   text-decoration: none;
 }
 
-.help_login:hover{
-  text-decoration: underline; color: blue;
+.help_login:hover {
+  text-decoration: underline;
+  color: blue;
 }
 
-.help_service{
+.help_service {
   text-decoration: none;
-  color:#0052cc;
+  color: #0052cc;
   font-size: 12px;
 }
 
-.help_service:hover{
-  text-decoration: underline; color:blue;
+.help_service:hover {
+  text-decoration: underline;
+  color: blue;
 }
-.options{
+.options {
   background-color: #fafbfc;
   font: inherit;
 }
-.aboutUs{
+.aboutUs {
   text-decoration: none;
 }
 
-.aboutUs:hover{
-  text-decoration: underline; color: #0052cc;
+.aboutUs:hover {
+  text-decoration: underline;
+  color: #0052cc;
 }
 
-.readAccept{
+.readAccept {
   text-decoration: none;
 }
 
-.readAccept:hover{
-  text-decoration: underline; color: #0052cc;
+.readAccept:hover {
+  text-decoration: underline;
+  color: #0052cc;
 }
-

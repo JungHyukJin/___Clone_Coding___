@@ -1,6 +1,6 @@
 # Trello Clone Coding
 
-> **2020.01.10 ~ 2020.03.10**
+> #### **2020.01.10 ~ 2020.03.10**
 
 > **Stack**: 
 >
@@ -20,26 +20,42 @@
 > 03.03~03.04:  JS works done(NO ANY LIBRARIES)
 >
 > 03.08: CSS works for better design
-
----
-
-### 웹 페이지 종류 (Front-end pages)
-
-1. main.html
-2. login.html
-3. signUp.html
-4. content.html
-5. board.html
+>
+> **+++++ Backend는 구현되지 않았습니다 +++++**
 
 -------------
 
+- Main page
 
+<img src="Readme.assets/image-20201126154736691.png" alt="image-20201126154736691"  />
 
+---
 
+- Login page
 
+<img src="Readme.assets/image-20201126154904155.png" alt="image-20201126154904155" style="zoom:;" />
 
+---
+
+- Sign up pages
+
+![image-20201126155134248](Readme.assets/image-20201126155134248.png)
+
+![image-20201126155255586](Readme.assets/image-20201126155255586.png)
+
+---
+
+- Mobile friendly (responsive)
+
+<img src="Readme.assets/image-20201126155843993.png" alt="image-20201126155843993" style="zoom: 80%;" />
+
+---
+
+![image-20201126153234850](Readme.assets/image-20201126153234850.png)
 
 -----
+
+---
 
 ### 진행사항 (Progress note)
 
