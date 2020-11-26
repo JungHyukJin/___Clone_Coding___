@@ -1,18 +1,28 @@
-# 2020.02.25 ~ 02.27
+# KakaoTalk Clone Coding
 
-## Kakao Clone Coding!!
+> **2020.02.25 ~ 02.27**
 
-> ##### Only with HTML & CSS!
-
-> 02.25 : Study and review basics of HTML and CSS
-
-#### Start Clone Coding! - 
-
-> 02.26: Works on HTML!
-
-> 02.27: Works on CSS!!
+> **Stack**: HTML, CSS, Responsive App
 >
-> 03.01: Animation version done.
+> **Tools :** Visual Studio Code
+
+> **purpose** : Study and review basics of HTML and CSS
+
+#### Start Clone Coding!
+
+> **02.25~26 :** Works on HTML done
+
+> **02.27 :** Works on CSS done
+
+---
+
+![image-20201126135118512](README.assets/image-20201126135118512.png)
+
+---
+
+![image-20201126135817508](README.assets/image-20201126135817508.png)
+
+---
 
 ---
 

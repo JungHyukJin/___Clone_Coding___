@@ -4,6 +4,19 @@ body {
   font-size: 30px;
 }
 
+li {
+  list-style: none;
+  outline: none;
+  cursor: unset;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
 #main-body {
   margin-top: 12%;
   text-align: center;
@@ -14,9 +27,8 @@ body {
 }
 
 .clicked {
-  color: #7f8c8d
+  color: #7f8c8d;
 }
-
 
 .form,
 .greetings {
@@ -34,7 +46,16 @@ body {
   width: 100%;
   height: 100%;
   z-index: -1;
-  animation: fadeIn .5s linear;
+  animation: fadeIn 0.5s linear;
+}
+
+.js-clock {
+  font-size: 70px;
+}
+
+.formSize {
+  width: 300px;
+  height: 50px;
 }
 
 @keyframes fadeIn {
