@@ -1,28 +1,29 @@
-# Trello_Clone_Coding - 전현진, 정소현, 정혁진
+# Trello Clone Coding
 
-> **CTRL + CLICK** **>>** https://junghyukjin.github.io/P_Trello_Clone_Coding/index.html
+> **2020.01.10 ~ 2020.03.10**
 
-### 1. 프로젝트 기간: *2020.01.10 ~ 2020.03.10*
+> **Stack**: 
+>
+> 1. Front-end: HTML, CSS, Vanilla JS, Responsive web app
+> 2. Back-end:  RDBMS(oracle db)  - ora11g_xe
+> 3. Server
+>    - servlet
+>    - spring - **3.9.11 RELEASE**(maven - **3.6.2**)
+>    - tomcat(**8.5**)
+>
+> **Tools :** Visual Studio Code, Spring
+>
+> **purpose** : Through the Trello code cloning project, study the structure of website and the way of it is working.
 
-### 2. 프로젝트 목적 (Purpose of the Project)
-
-- 트렐로를 복제를 통해 전반적인 웹의 흐름을 공부한다.
-- Through the Trello code cloning project, study the structure of website and the way of it is working.
-
-### 3. 사용 툴 (Tools)
-
-1. Front-end
-   - html, css, JS, JQuery, (React.JS)
-3. Back-end
-   - RDBMS(oracle db)  - ora11g_xe
-3. Server
-   - servlet
-   - spring - **3.9.11 RELEASE**(maven - **3.6.2**)
-   - tomcat(**8.5**)
+> 03.02 ~ 03.03: Study and review basics of HTML, CSS and Java Script
+>
+> 03.03~03.04:  JS works done(NO ANY LIBRARIES)
+>
+> 03.08: CSS works for better design
 
 ---
 
-### 4. 웹 페이지 종류 (Front-end pages)
+### 웹 페이지 종류 (Front-end pages)
 
 1. main.html
 2. login.html
@@ -32,7 +33,15 @@
 
 -------------
 
-### 5. 진행사항 (Progress note)
+
+
+
+
+
+
+-----
+
+### 진행사항 (Progress note)
 
 ### 2020.01.10 환경설정
 

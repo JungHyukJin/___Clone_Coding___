@@ -8,6 +8,10 @@ li {
   list-style: none;
   outline: none;
   cursor: unset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
 }
 
 button {
@@ -15,10 +19,11 @@ button {
   border: none;
   outline: none;
   cursor: pointer;
+  font-size: 22px;
 }
 
 #main-body {
-  margin-top: 12%;
+  margin: auto;
   text-align: center;
 }
 
@@ -50,12 +55,18 @@ button {
 }
 
 .js-clock {
-  font-size: 70px;
+  font-size: 60px;
 }
 
 .formSize {
   width: 300px;
   height: 50px;
+  font-size: 20px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
 }
 
 @keyframes fadeIn {
